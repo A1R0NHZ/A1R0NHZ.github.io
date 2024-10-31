@@ -43,16 +43,16 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2024.03* Best Paper Award at ICLIST 2024, Chonburi, Thailand, for pioneering research on Male Depression Detection.
+- *2023.03* Contributor, ICFDTSD 2023 Conference, recognized for significant insights into sustainable development.
+- *2023.03* Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
+- 
 # 📖 Educations
-- - *2023.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical, AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. 
+- *2023.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical, AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. 
  
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.03*, Cyber Conference 2023, Tamil Nadu Police Department — Presented on advancements and best practices in cybersecurity.
 
 # 💻 Work Experience
 
