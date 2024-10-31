@@ -43,9 +43,9 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.03* Best Paper Award at ICLIST 2024, Chonburi, Thailand, for pioneering research on Male Depression Detection.
-- *2023.03* Contributor, ICFDTSD 2023 Conference, recognized for significant insights into sustainable development.
-- *2023.03* Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
+- *2024.03*, Best Paper Award at ICLIST 2024, Chonburi, Thailand, for pioneering research on Male Depression Detection.
+- *2023.03*, Contributor, ICFDTSD 2023 Conference, recognized for significant insights into sustainable development.
+- *2023.03*, Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
 - 
 # 📖 Educations
 - *2023.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical.
