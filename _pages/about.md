@@ -55,4 +55,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
+- *2024.08 - 2024.10*, Artificial Intelligence Engineer Intern, Industrial & Commercial Waste Disposal Pte Ltd, Singapore.
+- *2024.07 - 2024.08*, Web Developer Intern, QuantPro Global Pvt Ltd, Bangalore, India.
 - *2023.06 - 2023.09*, Research Intern, King Mongkut's University of Technology Thonburi, Bangkok City, Thailand, Supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785).
