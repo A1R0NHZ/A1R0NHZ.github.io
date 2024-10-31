@@ -30,23 +30,21 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔧 Work Going On
 - *2024.06*:  🔧🔧 Worked on mental health projects involving physical sensors and EEG using machine learning and deep learning, Worked for 6 months on 2 papers, Supervised by [Dr Thawseeak Yingthorsuk] (https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay] (https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
-- *2024.07*:  🔧🔧 Worked on extremism, propaganda, radicalization, and flagged detection using large language models (LLMs), Worked for 4 months on 1 paper, Supervised by [Dr Thawseeak Yingthorsuk] (https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay] (https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
+- *2024.07*:  🔧🔧 Worked on extremism, propaganda, radicalization, and flagged detection using large language models (LLMs), Worked for 4 months on 1 paper, Supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay](https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
 
 # 📝 Publications 
 - `JETIR` A Web-Based Doctor Appointment System, Journal of Emerging Technology and Innovative Research.
 - `IEEE` Data Analytics and Machine Learning Approach for Tsunami Prediction from Satellite and Hydrographic Data, International Electrical Engineering Congress (IEECON) 2024, Pattaya, Thailand.
 - `ICLIST` Deep Learning-Based Predictive Modeling for Male Depression Detection, International Journal of Educational Communications and Technology `IJECT`. Presented at the ICLIST 2024 7th International Conference on Learning Innovation in Science and Technology, Chonburi, Thailand, March 21-23, 2024.
 
-
 # 🎖 Honors and Awards
 - *2024.03*, Best Paper Award at ICLIST 2024, Chonburi, Thailand, for pioneering research on Male Depression Detection.
 - *2023.03*, Contributor, ICFDTSD 2023 Conference, recognized for significant insights into sustainable development.
 - *2023.03*, Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
-- 
+  
 # 📖 Educations
 - *2023.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical.
   AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. 
- 
 
 # 💬 Invited Talks
 - *2023.03*, Cyber Conference 2023, Tamil Nadu Police Department — Presented on advancements and best practices in cybersecurity.
