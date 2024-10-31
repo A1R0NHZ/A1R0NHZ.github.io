@@ -54,6 +54,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+# 💻 Work Experience
+
+- *2022.03 - 2024.09*, Director, Trekcodes (8-employee venture - IT Startup), Chennai, India.
+- *2020.01 - Present*, Technical Specialist, Gandhi World Foundation (NGO), Chennai, India.
+
 # 💻 Internships
 - *2024.08 - 2024.10*, Artificial Intelligence Engineer Intern, Industrial & Commercial Waste Disposal Pte Ltd, Singapore.
 - *2024.07 - 2024.08*, Web Developer Intern, QuantPro Global Pvt Ltd, Bangalore, India.
