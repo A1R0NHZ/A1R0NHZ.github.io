@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
@@ -48,7 +48,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.03* Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
 - 
 # 📖 Educations
-- *2023.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical, AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. 
+- *2023.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical.
+  AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. 
  
 
 # 💬 Invited Talks
