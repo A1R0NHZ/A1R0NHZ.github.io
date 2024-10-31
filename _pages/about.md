@@ -56,4 +56,3 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2023.06 - 2023.09*, Research Intern, King Mongkut's University of Technology Thonburi, Bangkok City, Thailand, Supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785).
-- 
