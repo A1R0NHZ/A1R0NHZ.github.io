@@ -24,10 +24,10 @@ My research journey has been guided by esteemed mentors, including <a href="http
 I have a strong interest in developing innovative solutions that harness technology for social good, particularly in areas like mental health and security. I believe that collaborative research can lead to breakthroughs that address pressing challenges in our society.
 
 # 🔥 News
-- *2024.08*:  &nbsp;🎉🎉 One paper accepted for presentation at GCMM 2024.
-- *2024.03*:  &nbsp;🎉🎉 One paper accepted for presentation at ICLIST 2024.
-- *2024.02*:  &nbsp;🎉🎉 One paper accepted for presentation at IEECON 2024.
-- *2024.01*:  &nbsp;🎉🎉 One paper accepted for presentation at JETIR.
+- *2024.08*:  &nbsp;🎉🎉 One paper accepted for GCMM 2024.
+- *2024.03*:  &nbsp;🎉🎉 One paper accepted for ICLIST 2024.
+- *2024.02*:  &nbsp;🎉🎉 One paper accepted for IEECON 2024.
+- *2024.01*:  &nbsp;🎉🎉 One paper accepted for JETIR.
 
 # 🔧 Work Going On
 - *2024.06*:  🔧🔧 Worked on mental health projects involving physical sensors and EEG using machine learning and deep learning, Worked for 6 months on 2 papers, Supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay](https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
