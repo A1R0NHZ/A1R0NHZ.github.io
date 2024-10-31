@@ -28,6 +28,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.02*:  &nbsp;🎉🎉 One paper accepted for presentation at IEECON 2024.
 - *2024.01*:  &nbsp;🎉🎉 One paper accepted for presentation at JETIR.
 
+# 🔧 Work Going On
+- *2024.06*:  🔧🔧 Worked on mental health projects involving physical sensors and EEG using machine learning and deep learning, Worked for 6 months on 2 papers, Supervised by [Dr Thawseeak Yingthorsuk] (https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay] (https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
+- *2024.07*:  🔧🔧 Worked on extremism, propaganda, radicalization, and flagged detection using large language models (LLMs), Worked for 4 months on 1 paper, Supervised by [Dr Thawseeak Yingthorsuk] (https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay] (https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
+
 # 📝 Publications 
 - `JETIR` A Web-Based Doctor Appointment System, Journal of Emerging Technology and Innovative Research.
 - `IEEE` Data Analytics and Machine Learning Approach for Tsunami Prediction from Satellite and Hydrographic Data, International Electrical Engineering Congress (IEECON) 2024, Pattaya, Thailand.
