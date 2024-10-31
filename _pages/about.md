@@ -23,8 +23,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.08*:  &nbsp;🎉🎉 One paper accepted for presentation at GCMM 2024.
+- *2024.03*:  &nbsp;🎉🎉 One paper accepted for presentation at ICLIST 2024.
+- *2024.02*:  &nbsp;🎉🎉 One paper accepted for presentation at IEECON 2024.
+- *2024.01*:  &nbsp;🎉🎉 One paper accepted for presentation at JETIR.
 
 # 📝 Publications 
 - `JETIR` A Web-Based Doctor Appointment System, Journal of Emerging Technology and Innovative Research.
