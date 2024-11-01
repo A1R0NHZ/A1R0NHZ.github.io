@@ -44,7 +44,7 @@ I have a strong interest in developing innovative solutions that harness technol
 - *2023.03*, Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
   
 # 📖 Educations
-- *2023.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical. AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. `Coursework Project:` Developed "Rishiverse," an AI-driven chatbot for aviation queries using deep learning and NLP. 
+- *2022.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical. AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. `Coursework Project:` Developed "Rishiverse," an AI-driven chatbot for aviation queries using deep learning and NLP. 
 
 # 💬 Invited Talks
 - *2023.03*, Cyber Conference 2023, Tamil Nadu Police Department — Presented on advancements and best practices in cybersecurity.
