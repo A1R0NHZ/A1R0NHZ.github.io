@@ -37,6 +37,7 @@ My research journey has been guided by esteemed mentors, including <a href="http
 - `ICLIST` Deep Learning-Based Predictive Modeling for Male Depression Detection, International Journal of Educational Communications and Technology `IJECT`. Presented at the ICLIST 2024 7th International Conference on Learning Innovation in Science and Technology, Chonburi, Thailand, March 21-23, 2024.
 
 # 🎖 Honors and Awards
+- *2024.12*, Best Paper Award at GCMM 2024, Bangkok, Thailand, for "Precision Tsunami Prognostication: A Machine Learning Expedition for Predictive Accuracy."
 - *2024.03*, Best Paper Award at ICLIST 2024, Chonburi, Thailand, for pioneering research on Male Depression Detection.
 - *2023.03*, Contributor, ICFDTSD 2023 Conference, recognized for significant insights into sustainable development.
 - *2023.03*, Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
