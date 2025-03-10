@@ -39,6 +39,7 @@ My research journey has been guided by esteemed mentors, including <a href="http
 - `ICLIST` Deep Learning-Based Predictive Modeling for Male Depression Detection, International Journal of Educational Communications and Technology `IJECT`. Presented at the ICLIST 2024 7th International Conference on Learning Innovation in Science and Technology, Chonburi, Thailand, March 21-23, 2024.
 
 # 🎖 Honors and Awards
+- *2025.03*, Best Paper Award at IEECON 2025, Hua Hin, Thailand, for "A Study of Deep Learning Models for Identifying and Estimating Psychological Stress and Disorders Using Electroencephalogram Signals."
 - *2024.12*, Best Paper Award at GCMM 2024, Bangkok, Thailand, for "Precision Tsunami Prognostication: A Machine Learning Expedition for Predictive Accuracy."
 - *2024.03*, Best Paper Award at ICLIST 2024, Chonburi, Thailand, for pioneering research on Deep Learning-Based Predictive Modeling for Male Depression Detection.
 - *2023.03*, Contributor, ICFDTSD 2023 Conference, recognized for significant insights into sustainable development.
@@ -55,9 +56,10 @@ My research journey has been guided by esteemed mentors, including <a href="http
 - *2020.01 - Present*, Technical Specialist, Gandhi World Foundation (NGO), Chennai, India.
 
 # 💻 Internships
+- *2025.01 - Present*, Junior Research Fellow, King Mongkut's University of Technology Thonburi, Bangkok City, Thailand, Supervised 
 - *2024.08 - 2024.10*, Artificial Intelligence Engineer Intern, Industrial & Commercial Waste Disposal Pte Ltd, Singapore.
 - *2024.07 - 2024.08*, Web Developer Intern, QuantPro Global Pvt Ltd, Bangalore, India.
-- *2023.12 - Present*, Volunteer Web Developer & Research Intern, CLAW Global, Dehradun, India.
+- *2023.12 - 2024.06*, Volunteer Web Developer & Research Intern, CLAW Global, Dehradun, India.
 - *2023.06 - 2023.09*, Research Intern, King Mongkut's University of Technology Thonburi, Bangkok City, Thailand, Supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785).
 
   
