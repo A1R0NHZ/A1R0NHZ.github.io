@@ -57,6 +57,8 @@ My research journey has been guided by esteemed mentors, including <a href="http
 
 
 # 🎖 Honors and Awards
+- *2025.05*, Featured Innovator – Dina Thanthi (Tamil Daily Newspaper, 1 Crore Readers), recognized for developing a lightweight, highly accurate heart diagnostic software.
+- *2025.04*, Letter of Appreciation, INTI International University, for pioneering ultra-lightweight AI models for real-time ECG analysis.
 - *2025.03*, Best Paper Award at IEECON 2025, Hua Hin, Thailand, for "A Study of Deep Learning Models for Identifying and Estimating Psychological Stress and Disorders Using Electroencephalogram Signals."
 - *2024.12*, Best Paper Award at GCMM 2024, Bangkok, Thailand, for "Precision Tsunami Prognostication: A Machine Learning Expedition for Predictive Accuracy."
 - *2024.03*, Best Paper Award at ICLIST 2024, Chonburi, Thailand, for pioneering research on Deep Learning-Based Predictive Modeling for Male Depression Detection.
@@ -64,7 +66,7 @@ My research journey has been guided by esteemed mentors, including <a href="http
 - *2023.03*, Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
   
 # 📖 Educations
-- *2022.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical. AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. `Coursework Project:` Developed "Rishiverse," an AI-driven chatbot for aviation queries using deep learning and NLP. 
+- *2022.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical. AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. `Coursework Project:` Developed "Rishiverse," an AI-driven chatbot for aviation queries using deep learning and NLP, LLM-Based Intelligent Detection of Flagged Content for Secure and Safe Online Environments
 
 # 💬 Invited Talks
 - *2023.03*, Cyber Conference 2023, Tamil Nadu Police Department — Presented on advancements and best practices in cybersecurity.
