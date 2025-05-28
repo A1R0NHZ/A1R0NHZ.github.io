@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a junior researcher and AI engineer specializing in artificial intelligence, robotics, and signal processing. Currently, I am pursuing a Bachelor of Science (Honors) in Robotics and Artificial Intelligence at AMET University, Chennai, while also expanding my research experience internationally.
+Hi! I am an AI engineer and junior researcher specializing in artificial intelligence, robotics, and signal processing. I have recently completed my Bachelor of Science (Honors) in Robotics and Artificial Intelligence at AMET University, Chennai, and am now focused on advancing my career through Master’s and Research Assistant opportunities.
 
-I am actively seeking Master’s and Research Assistant opportunities to further enhance my skills and contribute to high-impact projects in AI and defense signal processing.
+Guided by distinguished mentors such as <a href="https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785" target="_blank" rel="noopener noreferrer">Dr. Thawseeak Yingthawornsuk</a>, <a href="https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay" target="_blank" rel="noopener noreferrer">Dr. Malathy Batumalay</a>, and <a href="https://in.linkedin.com/in/duraimutharasan-bose-17728051" target="_blank" rel="noopener noreferrer">Dr. Duraimutharasan</a>, my research covers advanced deep learning applications for tsunami prediction, mental health diagnosis using EEG and ECG signal analysis, and extremism detection via large language models.
 
-Guided by distinguished mentors such as <a href="https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785" target="_blank" rel="noopener noreferrer">Dr. Thawseeak Yingthawornsuk</a>, <a href="https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay" target="_blank" rel="noopener noreferrer">Dr. Malathy Batumalay</a>, and <a href="https://in.linkedin.com/in/duraimutharasan-bose-17728051" target="_blank" rel="noopener noreferrer">Dr. Duraimutharasan</a>, my research spans advanced deep learning applications for tsunami prediction, mental health diagnosis using EEG and ECG signal analysis, and extremism detection via large language models.
+I have authored over a dozen research papers, including award-winning studies on psychological stress detection, tsunami forecasting, and depression detection. My current focus includes developing lightweight AI models for edge deployment in biomedical signal processing, along with secure communication solutions for defense applications.
 
-I have published over a dozen papers, including award-winning works on psychological stress detection, tsunami forecasting, and depression detection. My ongoing projects focus on lightweight AI models optimized for edge devices, enabling clinical-grade reliability in real-time biomedical signal processing, as well as secure communication protocols for defense applications.
+Motivated by a commitment to social impact and the United Nations Sustainable Development Goals (UN SDGs), I strive to create AI-driven innovations that address healthcare, security, and disaster management challenges, with a strong emphasis on ethical, practical, and scalable technology solutions.
 
-Driven by a commitment to social impact and aligned with the United Nations Sustainable Development Goals (UN SDGs), I am passionate about developing AI-driven solutions for healthcare, security, and disaster management, blending cutting-edge research with ethical considerations and practical deployment.
-
-I believe collaborative research and innovation are key to tackling today’s complex global challenges and advancing technology responsibly.
+I believe collaboration and cutting-edge research are vital to solving today’s global challenges and responsibly advancing technology.
 
 # 🔥 News
 - *2025.05*: 🎉🎉 Paper accepted by Journal of Applied Data Sciences (Q2): Study of Machine Learning Techniques for Predicting Panic Attacks with EEG and Personalized Binaural Beat Frequencies
