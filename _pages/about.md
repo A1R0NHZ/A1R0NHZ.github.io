@@ -32,13 +32,29 @@ My research journey has been guided by esteemed mentors, including <a href="http
 - *2024.01*:  &nbsp;🎉🎉 Paper accepted by JETIR: A Web-Based Doctor Appointment System.
 
 # 🔧 Work Going On
-- *2024.06*:  🔧🔧 Worked on mental health projects involving physical sensors and EEG using machine learning and deep learning, Worked for 6 months on 2 papers, Supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay](https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
-- *2024.07*:  🔧🔧 Worked on extremism, propaganda, radicalization, and flagged detection using large language models (LLMs), Worked for 4 months on 1 paper, Supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay](https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
+# 🔧 Work Going On
+- *June 2024*: Developed mental health solutions leveraging physical sensors and EEG data using advanced machine learning and deep learning techniques. Delivered 2 research papers under supervision of [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay](https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
+- *July 2024*: Advanced detection models for extremism, propaganda, radicalization, and flagged content using large language models (LLMs). Published 1 research paper, supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay](https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
+- *December 2024*: Enhanced flagged data monitoring system with robust multilingual support to improve content security and moderation.
+- *May 2024 – March 2025*: Working on cutting-edge ECG and EEG signal analysis for cardiovascular and neurological disorder detection by integrating lightweight, edge-deployable AI models.
+- *April 2025*: Integrated VetraSync, a secure, low-latency sound data transfer protocol, to enhance real-time communication capabilities.
+- *May 2025*: Developed and optimized baby cry detection models for real-time audio analysis applications.
 
-# 📝 Publications 
+
+# 📝 Publications
 - `JETIR` A Web-Based Doctor Appointment System, Journal of Emerging Technology and Innovative Research.
 - `IEEE` Data Analytics and Machine Learning Approach for Tsunami Prediction from Satellite and Hydrographic Data, International Electrical Engineering Congress (IEECON) 2024, Pattaya, Thailand.
 - `ICLIST` Deep Learning-Based Predictive Modeling for Male Depression Detection, International Journal of Educational Communications and Technology `IJECT`. Presented at the ICLIST 2024 7th International Conference on Learning Innovation in Science and Technology, Chonburi, Thailand, March 21-23, 2024.
+- `GCMM` Precision Tsunami Prognostication: A Machine Learning Expedition for Predictive Accuracy, 18th Global Congress on Manufacturing and Management (GCMM 2024), Bangkok, Thailand, December 4-7, 2024.
+- `JOIT` Deep Learning-Based Predictive Modeling for Male Depression Detection, Journal of Information Technology, February 2025.
+- `IEEE` Intelligent Flagged Content Detection with Transformer-Based Models for Secure Online Environments, International Electrical Engineering Congress (IEECON), Hua Hin, Thailand, March 5-7, 2025.
+- `IEEE` A Study of Deep Learning Models for Identifying and Estimating Psychological Stress and Disorders Using Electroencephalogram Signals, International Electrical Engineering Congress (IEECON), Hua Hin, Thailand, March 5-7, 2025.
+- `IEEE Poland Section` Deep Learning Model Performance on Critical Arrhythmia Detection Using CNN and WaveNet, Submitted.
+- `JADS` A Study of Unified Framework for Extremism Classification, Ideology Detection, Propaganda Analysis, and Flagged Data Detection Using Transformers, Journal of Applied Data Sciences (Q2), Accepted.
+- `JADS` Study of Machine Learning Techniques for Predicting Panic Attacks with EEG and Personalized Binaural Beat Frequencies, Journal of Applied Data Sciences (Q2), Accepted.
+- `IEEE Access` The Study of Lightweight and Advanced Deep Learning Models for Accurate Classification of Cardiovascular ECG Rhythms, Submitted.
+- `ICIT 2025` Deep Learning-Based Classification of Premature Ventricular Contractions and Supraventricular Tachycardia Using ECG Signals, Submitted to ICIT 2025, Bangkok, Thailand.
+
 
 # 🎖 Honors and Awards
 - *2025.03*, Best Paper Award at IEECON 2025, Hua Hin, Thailand, for "A Study of Deep Learning Models for Identifying and Estimating Psychological Stress and Disorders Using Electroencephalogram Signals."
