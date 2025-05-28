@@ -40,7 +40,6 @@ I believe collaborative research and innovation are key to tackling today’s co
 - *2024.01*:  &nbsp;🎉🎉 Paper accepted by JETIR: A Web-Based Doctor Appointment System.
 
 # 🔧 Work Going On
-# 🔧 Work Going On
 - *June 2024*: Developed mental health solutions leveraging physical sensors and EEG data using advanced machine learning and deep learning techniques. Delivered 2 research papers under supervision of [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay](https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
 - *July 2024*: Advanced detection models for extremism, propaganda, radicalization, and flagged content using large language models (LLMs). Published 1 research paper, supervised by [Dr Thawseeak Yingthorsuk](https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785) and [Ir.Dr. Malathy Batumalay](https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay).
 - *December 2024*: Enhanced flagged data monitoring system with robust multilingual support to improve content security and moderation.
