@@ -17,9 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am a Jr.researcher specializing in artificial intelligence and robotics, currently pursuing my Bachelor of Science (Honors) in Robotics and Artificial Intelligence at AMET University. I am actively looking for Master’s and Research Assistant opportunities to further develop my skills and contribute to meaningful projects.
+Hi! I am a junior researcher and AI engineer specializing in artificial intelligence, robotics, and signal processing. Currently, I am pursuing a Bachelor of Science (Honors) in Robotics and Artificial Intelligence at AMET University, Chennai, while also expanding my research experience internationally.
 
-My research journey has been guided by esteemed mentors, including <a href="https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785">Dr. Thawseeak Yingthorsuk</a>, alongside <a href="https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay">Dr. Malathy Batumalay</a> and <a href="https://in.linkedin.com/in/duraimutharasan-bose-17728051">Dr. Duraimutharasan</a> . Under their supervision, I am exploring the intersection of Tsunami, mental health, physical sensors, and EEG technology through machine learning and deep learning methodologies. Additionally, I am delving into extremism detection, propaganda analysis, and radicalization through large language models. I have published three papers, with one paper accepted for presentation, and three additional papers currently under review. Driven by a commitment to social good, I am working toward the United Nations Sustainable Development Goals (UN SDGs) and other key global initiatives. My research interests are centered on creating innovative solutions that address critical areas like mental health and security. I believe that collaborative research and technology can drive impactful solutions to today’s most pressing challenges.
+I am actively seeking Master’s and Research Assistant opportunities to further enhance my skills and contribute to high-impact projects in AI and defense signal processing.
+
+Guided by distinguished mentors such as <a href="https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785" target="_blank" rel="noopener noreferrer">Dr. Thawseeak Yingthawornsuk</a>, <a href="https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay" target="_blank" rel="noopener noreferrer">Dr. Malathy Batumalay</a>, and <a href="https://in.linkedin.com/in/duraimutharasan-bose-17728051" target="_blank" rel="noopener noreferrer">Dr. Duraimutharasan</a>, my research spans advanced deep learning applications for tsunami prediction, mental health diagnosis using EEG and ECG signal analysis, and extremism detection via large language models.
+
+I have published over a dozen papers, including award-winning works on psychological stress detection, tsunami forecasting, and depression detection. My ongoing projects focus on lightweight AI models optimized for edge devices, enabling clinical-grade reliability in real-time biomedical signal processing, as well as secure communication protocols for defense applications.
+
+Driven by a commitment to social impact and aligned with the United Nations Sustainable Development Goals (UN SDGs), I am passionate about developing AI-driven solutions for healthcare, security, and disaster management, blending cutting-edge research with ethical considerations and practical deployment.
+
+I believe collaborative research and innovation are key to tackling today’s complex global challenges and advancing technology responsibly.
 
 # 🔥 News
 - *2025.05*: 🎉🎉 Paper accepted by Journal of Applied Data Sciences (Q2): Study of Machine Learning Techniques for Predicting Panic Attacks with EEG and Personalized Binaural Beat Frequencies
