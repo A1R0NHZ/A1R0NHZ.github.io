@@ -62,6 +62,7 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 
 
 # 🎖 Honors and Awards
+- *2025.07*, AGMA Young Maritime Leadership Award – Awarded at the AMET Global Maritime Awards 2025 for AI innovations in healthcare and signal systems. Jury included Prof. Dr. Gabriel Raicu  (Rector, Constanta Maritime University, Romania) and Prof. Stephen Hurd (Director, Centre for Seafaring and Maritime Operations, UK).
 - *2025.05*, Featured Innovator – Dina Thanthi (Tamil Daily Newspaper, 1 Crore Readers), recognized for developing a lightweight, highly accurate heart diagnostic software.
 - *2025.04*, Letter of Appreciation, INTI International University, for pioneering ultra-lightweight AI models for real-time ECG analysis.
 - *2025.03*, Best Paper Award at IEECON 2025, Hua Hin, Thailand, for "A Study of Deep Learning Models for Identifying and Estimating Psychological Stress and Disorders Using Electroencephalogram Signals."
