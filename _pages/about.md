@@ -82,7 +82,7 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - *2020.01 - Present*, Technical Specialist, Gandhi World Foundation (NGO), Chennai, India.
 
 # 💻 Internships
-- *2025.01 - Present*, Junior Research Fellow, King Mongkut's University of Technology Thonburi, Bangkok City, Thailand, Supervised 
+- *2025.01 - 2025.06*, Junior Research Fellow, King Mongkut's University of Technology Thonburi, Bangkok City, Thailand, Supervised 
 - *2024.08 - 2024.10*, Artificial Intelligence Engineer Intern, Industrial & Commercial Waste Disposal Pte Ltd, Singapore.
 - *2024.07 - 2024.08*, Web Developer Intern, QuantPro Global Pvt Ltd, Bangalore, India.
 - *2023.12 - 2024.06*, Volunteer Web Developer & Research Intern, CLAW Global, Dehradun, India.
