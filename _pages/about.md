@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am an AI engineer and junior researcher specializing in artificial intelligence, robotics, and signal processing. I have recently completed my Bachelor of Science (Honors) in Robotics and Artificial Intelligence at AMET University, Chennai, and am now focused on advancing my career through Master’s and Research Assistant opportunities.
+Hi! I am an AI engineer and junior researcher specializing in artificial intelligence, robotics, and signal processing. I have recently completed my Bachelor of Science (Honors) in Robotics and Artificial Intelligence at AMET University, Chennai.
 
 Guided by distinguished mentors such as <a href="https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785" target="_blank" rel="noopener noreferrer">Dr. Thawseeak Yingthawornsuk</a>, <a href="https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay" target="_blank" rel="noopener noreferrer">Dr. Malathy Batumalay</a>, and <a href="https://in.linkedin.com/in/duraimutharasan-bose-17728051" target="_blank" rel="noopener noreferrer">Dr. Duraimutharasan</a>, my research covers advanced deep learning applications for tsunami prediction, mental health diagnosis using EEG and ECG signal analysis, and extremism detection via large language models.
 
@@ -75,7 +75,8 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - *2022.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical. AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. `Coursework Project:` Developed "Rishiverse," an AI-driven chatbot for aviation queries using deep learning and NLP, LLM-Based Intelligent Detection of Flagged Content for Secure and Safe Online Environments
 
 # 💬 Invited Talks
-- *2023.03*, Cyber Conference 2023, Tamil Nadu Police Department — Presented on advancements and best practices in cybersecurity.
+- *2023.03*, Cyber Conference 2023, Tamil Nadu Police Department, Government of Tamil Nadu — Presented on advancements and best practices in cybersecurity.
+- *2025.07*, Guest Speaker, EDII – Government of Tamil Nadu — Spoke on "The Brain Behind the eV", sharing insights on AI-driven advancements in electric vehicle technology and sustainable innovation.
 
 # 💻 Work Experience
 - *2022.03 - 2024.09*, Director, Trekcodes (8-employee venture - IT Startup), Chennai, India.
