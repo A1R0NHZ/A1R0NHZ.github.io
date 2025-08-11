@@ -70,7 +70,13 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - *2024.03*, Best Paper Award at ICLIST 2024, Chonburi, Thailand, for pioneering research on Deep Learning-Based Predictive Modeling for Male Depression Detection.
 - *2023.03*, Contributor, ICFDTSD 2023 Conference, recognized for significant insights into sustainable development.
 - *2023.03*, Guest Speaker, Cyber Conference 2023 hosted by the Tamil Nadu Police Department, where I presented on cybersecurity advancements and practices.
-  
+
+# 📝 Letters of Recommendation
+- *2025.03*, **Prof. Dr. Waraluk Pansuwan** (Dean, SOAD, King Mongkut's University of Technology Thonburi) – Recommendation for pioneering work on novel hybrid deep learning architectures for automatic cardiac arrhythmia classification, including a lightweight model capable of detecting over 20 cardiac conditions optimized for low-resource devices.
+- *2024.12*, **Prof. Ir. Dr. Malathy Batumalay** (INTI International University,Malaysia ) – Letter of Recommendation highlighting my excellence in AI-driven healthcare innovations and collaborative research impact.
+- *2024.05*, **Prof. Dr. Duraimutharasan** (Dean, AMET University) – Recommendation recognizing my diverse technical skillset, commitment to the United Nations Sustainable Development Goals (UN SDGs) and describing me as an invaluable asset to the academic and research community.
+- *2023.09*, **Prof. Dr. Thawseeak Yingthawornsuk** (King Mongkut's University of Technology Thonburi) – Letter of Recommendation for significant contributions in machine learning, deep learning, and data analytics applied to tsunami prediction, mental health diagnostics, and other AI-driven research.
+
 # 📖 Educations
 - *2022.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical. AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. `Coursework Project:` Developed "Rishiverse," an AI-driven chatbot for aviation queries using deep learning and NLP, LLM-Based Intelligent Detection of Flagged Content for Secure and Safe Online Environments
 
