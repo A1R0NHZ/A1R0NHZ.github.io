@@ -85,6 +85,7 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - *2025.07*, Guest Speaker, EDII – Government of Tamil Nadu — Spoke on "The Brain Behind the eV", sharing insights on AI-driven advancements in electric vehicle technology and sustainable innovation.
 
 # 💻 Work Experience
+- *2025.06 - Present*, CIO, Altruisty Innovation Pvt Ltd.
 - *2022.03 - 2024.09*, Director, Trekcodes (8-employee venture - IT Startup), Chennai, India.
 - *2020.01 - Present*, Technical Specialist, Gandhi World Foundation (NGO), Chennai, India.
 
