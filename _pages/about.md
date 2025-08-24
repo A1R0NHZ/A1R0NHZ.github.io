@@ -86,7 +86,7 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 
 # 💻 Work Experience
 - *2025.06 - Present*, CIO, Altruisty Innovation Pvt Ltd.
-- *2022.03 - 2024.09*, Director, Trekcodes (8-employee venture - IT Startup), Chennai, India.
+- *2022.03 - Present*, Director, Trekcodes (8-employee venture - AI Startup), Chennai, India.
 - *2020.01 - Present*, Technical Specialist, Gandhi World Foundation (NGO), Chennai, India.
 
 # 💻 Internships
