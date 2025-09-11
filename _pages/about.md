@@ -59,6 +59,8 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - `JADS` Study of Machine Learning Techniques for Predicting Panic Attacks with EEG and Personalized Binaural Beat Frequencies, Journal of Applied Data Sciences (Q2), Accepted.
 - `IEEE Access` The Study of Lightweight and Advanced Deep Learning Models for Accurate Classification of Cardiovascular ECG Rhythms, Submitted.
 - `ICIT 2025` Deep Learning-Based Classification of Premature Ventricular Contractions and Supraventricular Tachycardia Using ECG Signals, Submitted to ICIT 2025, Bangkok, Thailand.
+- Secure Acoustic Communication with Frequency-Hopping and Steganography for Underwater and Terrestrial Environments, Submitted to IEEE Thailand Section, 2026
+- Multi-Class Classification of Low-Frequency Hum in Electromagnetic Interference Using Hybrid Deep Learning Models, Submitted to IEEE Thailand Section, 2026
 
 
 # 🎖 Honors and Awards
