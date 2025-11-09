@@ -44,6 +44,7 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - *May 2024 – March 2025*: Working on cutting-edge ECG and EEG signal analysis for cardiovascular and neurological disorder detection by integrating lightweight, edge-deployable AI models.
 - *April 2025*: Integrated VetraSync, a secure, low-latency sound data transfer protocol, to enhance real-time communication capabilities.
 - *May 2025*: Developed and optimized baby cry detection models for real-time audio analysis applications.
+- *June 2025 - Present*: Developing SXEcho Lite, a lightweight data-over-sound communication system enabling secure, low-bandwidth transmission through audible and ultrasonic frequencies using adaptive modulation and advanced error correction.
 
 
 # 📝 Publications
