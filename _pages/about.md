@@ -80,7 +80,7 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - *2023.09*, **Prof. Dr. Thawseeak Yingthawornsuk** (King Mongkut's University of Technology Thonburi, Thailand) – Letter of Recommendation for significant contributions in machine learning, deep learning and data analytics applied to tsunami prediction, mental health diagnostics and other AI-driven research.
 
 # 📖 Educations
-- *2022.08 - 2025.07 (now)*, Bachelor of Science (Honors), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical. AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. `Coursework Project:` Developed "Rishiverse," an AI-driven chatbot for aviation queries using deep learning and NLP, LLM-Based Intelligent Detection of Flagged Content for Secure and Safe Online Environments
+- *2022.08 - 2025.07*, Bachelor of Science (GPA: 3.53/4.00, US Equivalent), Major in Robotics and Artificial Intelligence; Minors in Mathematics, Physics, Electrical. AMET (Academy of Maritime Education and Training) University, Chennai, Tamil Nadu, India. `Coursework Project:` Developed "Rishiverse," an AI-driven chatbot for aviation queries using deep learning and NLP, LLM-Based Intelligent Detection of Flagged Content for Secure and Safe Online Environments
 
 # 💬 Invited Talks
 - *2023.03*, Cyber Conference 2023, Tamil Nadu Police Department, Government of Tamil Nadu — Presented on advancements and best practices in cybersecurity.
