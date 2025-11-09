@@ -61,6 +61,7 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - `BBEMS-2025` Deep Learning-Based Classification of Premature Ventricular Contractions and Supraventricular Tachycardia Using ECG Signals, Bangkok, Thailand, Published.
 - Secure Acoustic Communication with Frequency-Hopping and Steganography for Underwater and Terrestrial Environments, Submitted to IEEE Thailand Section, 2026
 - Multi-Class Classification of Low-Frequency Hum in Electromagnetic Interference Using Hybrid Deep Learning Models, Submitted to IEEE Thailand Section, 2026
+- Deep Learning-Based Classification of CardiacArrhythmia in ECG Samples, Submitted to IEEE Thailand Section, 2026
 
 
 # 🎖 Honors and Awards
