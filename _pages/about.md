@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am an AI engineer and junior researcher specializing in artificial intelligence, robotics, and signal processing. I have recently completed my Bachelor of Science (Honors) in Robotics and Artificial Intelligence at AMET University, Chennai.
+Hi! I am an AI engineer and junior researcher specializing in artificial intelligence, robotics, and signal processing. I have recently completed my Bachelor of Science in Robotics and Artificial Intelligence at AMET University, Chennai.
 
 Guided by distinguished mentors such as <a href="https://kirim.kmutt.ac.th/converis/portal/detail/Person/54019785" target="_blank" rel="noopener noreferrer">Dr. Thawseeak Yingthawornsuk</a>, <a href="https://www.researchgate.net/profile/Ir-Dr-Malathy-Batumalay" target="_blank" rel="noopener noreferrer">Dr. Malathy Batumalay</a>, and <a href="https://in.linkedin.com/in/duraimutharasan-bose-17728051" target="_blank" rel="noopener noreferrer">Dr. Duraimutharasan</a>, my research covers advanced deep learning applications for tsunami prediction, mental health diagnosis using EEG and ECG signal analysis, and extremism detection via large language models.
 
