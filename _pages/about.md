@@ -66,6 +66,8 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 
 
 # 🎖 Honors and Awards
+- *2026.02*, Presidential Acknowledgement, France
+Received a formal letter from the Office of the President of France acknowledging my academic work and conveying encouragement for the continuation of my research and professional initiatives. Issued by the office of Emmanuel Macron.
 - *2025.07*, AGMA Young Maritime Leadership Award – Awarded at the AMET Global Maritime Awards 2025 for AI innovations in signal systems. Jury included Prof. Dr. Gabriel Raicu  (Rector, Constanta Maritime University, Romania) and Prof. Stephen Hurd (Director, Centre for Seafaring and Maritime Operations, UK).
 - *2025.05*, Featured Innovator – Dina Thanthi (Tamil Daily Newspaper, 1 Crore Readers), recognized for developing a lightweight, highly accurate heart diagnostic software.
 - *2025.04*, Letter of Appreciation, INTI International University, for pioneering ultra-lightweight AI models for real-time ECG analysis.
