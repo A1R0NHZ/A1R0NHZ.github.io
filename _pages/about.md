@@ -48,8 +48,7 @@ I believe collaboration and cutting-edge research are vital to solving today’s
 - *April 2025*: Integrated VetraSync, a secure, low-latency sound data transfer protocol, to enhance real-time communication capabilities.
 - *May 2025*: Developed and optimized baby cry detection models for real-time audio analysis applications.
 - *June 2025 - Present*: Developing SXEcho Lite, a lightweight data-over-sound communication system enabling secure, low-bandwidth transmission through audible and ultrasonic frequencies using adaptive modulation and advanced error correction.
-- *February 2026 - Present*: Developing Admissibility Verification, a framework for evaluating the stability of deep neural network representations under structured perturbations, enabling detection of silent representation collapse through geometric similarity analysis.
-
+- *February 2026 - Present*: Developing Admissibility Verification, a framework for evaluating the stability of deep neural network representations under structured perturbations, introducing a novel admissibility formula for detecting silent representation collapse through geometric similarity analysis.
 # 📝 Publications
 - `JETIR` A Web-Based Doctor Appointment System, Journal of Emerging Technology and Innovative Research.
 - `IEEE` Data Analytics and Machine Learning Approach for Tsunami Prediction from Satellite and Hydrographic Data, International Electrical Engineering Congress (IEECON) 2024, Pattaya, Thailand.
