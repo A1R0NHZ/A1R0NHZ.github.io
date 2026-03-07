@@ -28,6 +28,9 @@ Motivated by a commitment to social impact and the United Nations Sustainable De
 I believe collaboration and cutting-edge research are vital to solving today’s global challenges and responsibly advancing technology.
 
 # 🔥 News
+- *2026.01*: 🎉🎉 Paper accepted at IEEECON 2026: Secure Acoustic Communication with Frequency-Hopping and Steganography for Underwater and Terrestrial Environments
+- *2026.01*: 🎉🎉 Paper accepted at IEEECON 2026: Multi-Class Classification of Low-Frequency Hum in Electromagnetic Interference Using Hybrid Deep Learning Models
+- *2026.01*: 🎉🎉 Paper accepted at IEEECON 2026: Deep Learning-Based Classification of Cardiac Arrhythmia in ECG Samples
 - *2025.05*: 🎉🎉 Paper accepted by Journal of Applied Data Sciences (Q2): Study of Machine Learning Techniques for Predicting Panic Attacks with EEG and Personalized Binaural Beat Frequencies
 - *2025.02*: 🎉🎉 Paper accepted by Journal of Applied Data Sciences (Q2): A Study of Unified Framework for Extremism Classification, Ideology Detection, Propaganda Analysis, and Flagged Data Detection Using Transformers.
 - *2024.12*: 🎉🎉 Paper accepted by iEECON 2025: A Study of Deep Learning Models for Identifying and Estimating Psychological Stress and Disorders Using Electroencephalogram Signals.
